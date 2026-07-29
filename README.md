@@ -66,7 +66,7 @@ Become a Software Engineer and build products that solve real-world problems.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dwarkesh777&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgajera00&theme=react-dark"/>
 
 </p>
 
